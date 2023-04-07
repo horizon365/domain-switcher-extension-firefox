@@ -1,7 +1,7 @@
 {
     "name": "Domain Switcher",
     "description": "Easily switch domains between development, staging, production or other environments of projects.",
-    "version": "__REPLACED_ON_BUILD__",
+    "version": "1.1.2",
     "manifest_version": 2,
     "icons": {
         "48": "icons/icon-48.png",

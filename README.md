@@ -6,6 +6,10 @@ Inspired by https://github.com/stevehanson/domain-switcher-chrome but decided to
 
 The extension allows to easily switch between different environments of configured projects.
 
+## How to install
+
+To load the extension manually, go to about:debugging#/runtime/this-firefox and choose "Load unpacked extensions" and select the "dist/manifest.json" file.
+
 ## How to use
 
 Example:
